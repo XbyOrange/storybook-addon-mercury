@@ -17,7 +17,7 @@ Addon for displaying [Mercury][mercury-url] sources related to your stories in t
 ### Install
 
 ```bash
-npm i @xbyorange/storybook-addon-mercury --save
+npm i --save-dev @xbyorange/storybook-addon-mercury
 ```
 
 ## Contributing
