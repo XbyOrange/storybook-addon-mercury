@@ -8,10 +8,10 @@
 
 ## Overview
 
-Addon for displaying [Mercury][mercury-url] sources related to your stories in the Storybook interface.
+Addon for displaying [Mercury][mercury-url] sources related to your stories in Storybook.
 
 - A "clean" button is provided for each displayed Mercury source. Clean the cache and see how your story reacts to changes.
-- Add custom buttons for interacting with mercury sources to each story. Dispatch update, create or delete actions and see how the story reacts to changes in the data layer.
+- Add custom buttons for interacting with Mercury sources to each story. Dispatch update, create or delete actions and see how the story reacts to changes in the data layer.
 - Use the built-in Mercury displayer to write stories for your data layer pieces.
 
 ### Install
